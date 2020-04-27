@@ -1,13 +1,6 @@
 # game-of-life
 An interactive implementation of John Conway's Game of Life, made using microsoft's Windows Forms
 
-## Building
-To load, edit and build the project in your machine you will need the [Microsoft Visual Studio](https://visualstudio.microsoft.com/) IDE
-as well as the [.NET Framework](https://docs.microsoft.com/en-us/dotnet/) version 4.0+
-
-## Running
-To run the pre-compiled version avaiable, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/) version 4.0+ is required
-
 ## Controls
 ### Mouse
 
@@ -31,6 +24,13 @@ To run the pre-compiled version avaiable, [.NET Framework](https://docs.microsof
 **LEFT**: Undoes the last iteration
 
 **RIGHT**: Advances one iteration
+
+## Building
+To load, edit and build the project in your machine you will need the [Microsoft Visual Studio](https://visualstudio.microsoft.com/) IDE
+as well as the [.NET Framework](https://docs.microsoft.com/en-us/dotnet/) version 4.0+
+
+## Running
+To run the pre-compiled version avaiable, [.NET Framework](https://docs.microsoft.com/en-us/dotnet/) version 4.0+ is required
 
 ## Built with
 * [.NET Framework](https://docs.microsoft.com/en-us/dotnet/)
